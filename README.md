@@ -1,5 +1,4 @@
-# Github-update
-done
+
 <h1 align="center">Hi 👋, I'm Mayuri Nilkanth Warale</h1>
 <h3 align="center">I am passionate about to Learn technology.</h3>
 
